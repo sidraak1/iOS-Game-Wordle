@@ -29,12 +29,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://imgur.com/a/auYZSMN 
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges: 
 
 ## License
 
