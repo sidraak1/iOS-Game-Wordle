@@ -1,4 +1,4 @@
-# ios_project_1
+# iOS Game - Wordle
 
 # Project 1 - Wordle
 
