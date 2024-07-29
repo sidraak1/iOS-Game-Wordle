@@ -1,4 +1,4 @@
-# iOS Game - Wordle
+# Wordle for iOS
 
 # Project 1 - Wordle
 
